@@ -75,7 +75,7 @@ export default function Projects() {
     <section id="work" className="section" style={{background:'var(--bg-surface)'}}>
       <div className="container">
         <motion.div initial={{opacity:0,y:28}} whileInView={{opacity:1,y:0}} viewport={{once:true,amount:0.3}} transition={{duration:0.65}} className="mb-16" style={{marginBottom:"4rem"}}>
-          <div className="section-label mb-4">02 / SELECTED WORK</div>
+          <div className="section-label mb-4">02 / PROJECTS</div>
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mt-2">
             <h2 style={{fontSize:'clamp(2.5rem,5vw,4rem)',fontWeight:800,letterSpacing:'-0.04em',lineHeight:1.0}}>
               Projects I'm<br />proud of
