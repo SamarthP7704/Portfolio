@@ -26,7 +26,7 @@ const timelineItems = [
   {
     type: 'co-op',
     title: 'Web Developer Co-Op',
-    company: 'Cummins Inc. · Columbus, OH',
+    company: 'Cummins Inc. · Columbus, IN',
     period: 'Jan 2024 – Jul 2024 · Jan 2025 – Apr 2025',
     description: 'Led enhancement of Opigno LMS reducing user-reported issues 30%. Integrated bpmn.io for visual diagrams, built 50+ Tailwind CSS + Material UI components, launched internal training portal, managed Azure DevOps CI/CD pipelines with Agile ceremonies.',
     tags: ['Drupal', 'Tailwind CSS', 'Material UI', 'Azure DevOps', 'bpmn.io', 'Agile'],
