@@ -27,7 +27,7 @@ export const projects: Project[] = [
   githubUrl: "https://github.com/SamarthP7704/trading-journal",
   year: "2026",
   emoji: "📈",
-}
+},
   {
     id: 4,
     title: "Featurisation & Model Tuning",
