@@ -24,7 +24,7 @@ export const projects: Project[] = [
   image: "/images/tradeio.jpg",
   color: "#22c55e",
   liveUrl: "https://tradeio-trading-journal.vercel.app/",
-  githubUrl: "https://github.com/SamarthP7704/trading-journal",
+  githubUrl: "https://github.com/SamarthP7704",
   year: "2026",
   emoji: "📈",
 },
