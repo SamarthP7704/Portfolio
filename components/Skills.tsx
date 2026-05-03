@@ -299,7 +299,7 @@ export default function Skills() {
           </div>
           <div style={{marginTop:40,padding:'20px 24px',borderRadius:14,background:'var(--accent-dim)',border:'1px solid rgba(0,255,135,0.2)'}}>
             <div style={{fontSize:'0.85rem',color:'var(--accent)',fontWeight:600,marginBottom:6,fontFamily:'var(--font-display)'}}>Always Learning 📚</div>
-            <p style={{fontSize:'0.8rem',color:'var(--text-secondary)',lineHeight:1.6}}>Currently exploring: <strong style={{color:'var(--text-primary)'}}>Rust, LangGraph agents, and Power Platform Copilot Studio</strong> — because the best engineers never stop growing.</p>
+            <p style={{fontSize:'0.8rem',color:'var(--text-secondary)',lineHeight:1.6}}>Currently exploring: <strong style={{color:'var(--text-primary)'}}>PyTorch, Scikit-learn, LangChain</strong> — because the best engineers never stop growing.</p>
           </div>
         </motion.div>
       </div>
