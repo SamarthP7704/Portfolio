@@ -43,21 +43,25 @@ I specialize in:
 ### 🎥 VidRAG — Hybrid Retrieval Video Intelligence Platform *(2026)*
 
 RAG-powered video intelligence platform transforming YouTube videos and uploaded media into timestamped notes, structured summaries, and grounded conversational AI through hybrid retrieval and semantic search.
+
 `Python` `FastAPI` `LangGraph` `Qdrant` `BM25` `Claude` `Langfuse` `RAGAS`
 
 ### 🤖 TaskOrbit — Distributed Browser Automation Platform *(2026)*
 
 Distributed browser automation platform enabling replayable enterprise workflows with asynchronous execution, retry recovery, WebSocket telemetry, and deterministic browser orchestration.
+
 `FastAPI` `Playwright` `Redis` `Docker` `PostgreSQL` `WebSockets` `TypeScript`
 
 ### 🥗 PrepPAL — AI Nutrition Assistant *(2026)*
 
 AI-powered nutrition platform delivering personalized meal planning, pantry intelligence, grocery automation, and calorie tracking through intelligent recommendation pipelines and cloud-native architecture.
+
 `React Native` `TypeScript` `Supabase` `PostgreSQL` `Claude AI` `Edge Functions` `Expo`
 
 ### 🎓 UC DoubtClear *(2025)*
 
 AI-assisted collaborative learning platform enabling secure peer Q&A, realtime collaboration, semantic retrieval, and intelligent tutoring through Supabase RLS and GPT-powered conversations.
+
 `React` `Vite` `Supabase` `Tailwind CSS` `GPT-4o` `Langfuse` `PostgreSQL`
 
 
