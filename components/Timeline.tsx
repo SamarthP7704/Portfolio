@@ -8,7 +8,7 @@ const timelineItems = [
     title: 'AI Developer Co-Op',
     company: 'Bendix LLC · Avon, OH',
     period: 'Jan 2026 – Present',
-    description: 'Built an end-to-end Utility Bill Automation System processing electric, gas & water bills across facilities. Integrated UiPath RPA, AI-based document extraction (Power Automate), SQL Server backend with duplicate detection, Power Apps dashboards, and Office Scripts Excel reporting for Cority compliance.',
+    description: 'Developing enterprise AI platforms and automation solutions including VisionAgent, a multi-agent AI assistant, global utility bill automation across 50+ facilities, and cloud-native Power Platform applications using Azure AI Foundry, React, UiPath, and Power Automate.',
     tags: ['Power Apps', 'Power Automate', 'UiPath', 'SQL Server', 'Office Scripts', 'SharePoint', 'React', 'PAC CLI'],
     color: '#00ff87',
     side: 'right',
