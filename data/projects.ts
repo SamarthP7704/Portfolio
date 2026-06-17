@@ -84,7 +84,7 @@ export interface Project {
 //     year: "2024",
 //     emoji: "📰",
 //   },
-];
+// ];
 
 export const projects: Project[] = [
   {
